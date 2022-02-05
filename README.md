@@ -1,1 +1,0 @@
-# ioof-robot-challenge
